@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  AI | FullStack Engineer 
+  Senior AI | FullStack Web Developer 
 </h4>
 
 <!-- <p align="center">
