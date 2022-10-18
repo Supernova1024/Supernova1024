@@ -16,24 +16,15 @@
 
 ## 👩  About me:
 <p>
-I am working as a <b>Web</b> & <b>AI developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
-</p>
+I am senior <b>AI</b> & <b>Web Developer</b> for 7 years with <b>Blockchain</b>.<br>
+I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
 
-<h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-<br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
+<h2>🥇 Main Skills:</h2>
 <br>🔸 AI - ML, DL
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, Django, Flask
+<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
+<br>🔸 FrontEnd - React.js, Vue.js, AngularJS
+<br>🔸 BackEnd - Node, Express, Laravel, Django, Flask, FastAPI
 <br>🔸 Desktop - Electron, PyQt, Tkinter
-<br>🔸 AWS and MLOPS
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
