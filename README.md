@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Senior AI | FullStack Web Developer 
+  Senior Software Engineer
 </h4>
 
 <!-- <p align="center">
@@ -16,25 +16,20 @@
 
 ## 👩  About me:
 <p>
-I am senior <b>AI</b> & <b>Web Developer</b> for 7 years with <b>Blockchain</b>.<br>
-I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
-
-<h2>🥇 Main Skills:</h2>
-<br>🔸 AI - ML, DL
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-<br>🔸 FrontEnd - React.js, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, Django, Flask, FastAPI
-<br>🔸 Desktop - Electron, PyQt, Tkinter
-<p>
-
+I am senior <b>Software Engineer</b> with 11 years of experience.<br>
+- <b>Self-driven</b> and <b>highly motivated developer</b> with a strong ownership mindset.<br>
+- <b>Proactive developer</b> who takes initiative and consistently drives projects forward.<br>
+- <b>Adaptive</b> and <b>fast-learning engineer</b> who thrives in dynamic, fast-paced environments.<br>
+- <b>Impact-focused developer</b> committed to delivering clean, scalable, and reliable solutions.<br>
+- <b>Analytical problem solver</b> with a strong ability to break down complex challenges.<br>
+- <b>Collaborative team player</b> with excellent communication and cross-functional coordination skills.<br>
+- <b>Detail-oriented engineer</b> who combines technical depth with a user-centric approach.<br>
+</p>
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
 
-
-
-  <summary><b>⚡ Github Stats</b></summary>
+  <!-- <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supernova1024&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Supernova1024" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supernova1024&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Supernova1024" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supernova1024&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Supernova1024" align = "center"/></p> -->
 
 
  <summary><b>🔥 Github Streaks</b></summary>
