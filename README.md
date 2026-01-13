@@ -25,7 +25,7 @@ I am senior <b>Software Engineer</b> with 11 years of experience.<br>
 - <b>Collaborative team player</b> with excellent communication and cross-functional coordination skills.<br>
 - <b>Detail-oriented engineer</b> who combines technical depth with a user-centric approach.<br>
 </p>
-<h2>ℹ️ &nbsp;Github Info</h2>
+<!-- <h2>ℹ️ &nbsp;Github Info</h2> -->
 
   <!-- <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supernova1024&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Supernova1024" align = "center"/>
